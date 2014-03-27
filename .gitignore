@@ -1,2 +1,4 @@
 
 *.class
+/Java8code/nbproject/private/
+/Java8code/build/
