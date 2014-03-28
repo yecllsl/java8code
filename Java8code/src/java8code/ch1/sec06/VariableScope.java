@@ -1,3 +1,5 @@
+package java8code.ch1.sec06;
+
 import java.io.*;
 import java.nio.charset.*;
 import java.nio.file.*;
@@ -40,7 +42,7 @@ public class VariableScope {
                   // ERROR: Illegal to mutate matches
                }}).start();
    }
-   */
+   //*/
 
    private static int matches;
 

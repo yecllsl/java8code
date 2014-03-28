@@ -1,3 +1,5 @@
+package java8code.ch1.sec07;
+
 interface Person {
    long getId();
    default String getName() { return "John Q. Public"; }

@@ -2,7 +2,7 @@
 
 var RandomIterator = Java.extend(java.util.Iterator, {
    next: function() Math.random(),
-   hasNext: function() true
+   hasNext: function() true;
 }) // RandomIterator is a class object
 var iter = new RandomIterator() // Use it to construct an instance
 print(iter.next())

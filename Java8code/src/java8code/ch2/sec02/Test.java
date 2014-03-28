@@ -1,5 +1,8 @@
+package java8code.ch2.sec02;
+
 import java.io.*;
 import java.math.*;
+import java.nio.charset.StandardCharsets;
 import java.nio.file.*;
 import java.util.*;
 import java.util.regex.*;
